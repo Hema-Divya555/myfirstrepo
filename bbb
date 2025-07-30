@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inline Style Example</title>
+</head>
+<body>
+
+    <h1 style="color: blue; text-align: center;">Hello, Inline World!</h1>
+    <p style="font-size: 18px; margin-left: 20px;">This paragraph has some inline styles applied directly to it.</p>
+
+</body>
+</html>
